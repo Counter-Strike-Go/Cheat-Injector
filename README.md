@@ -1,16 +1,16 @@
 # CS:GO Cheat Injector
 A free CS:GO Cheat loader with VAC Bypass. I've bundled up [12 free cheats](https://github.com/Counter-Strike-Go/Cheat-Injector#Supported-Cheats) and allow you to easily install them while avoiding VAC Bans.
 
-I created this cheat installer because I was sick of people asking in Discord how to install or compile various free CS:GO cheats, this program makes it a one click process. I intend to release the source code of this project soon so anyone can contribute to building the best possible cheat loader for CS:GO.
+I created this cheat installer because I was sick of people asking on Discord how to install or compile various free CS:GO cheats, this program makes it a one click process. I intend to release the source code of this project soon so anyone can contribute to building the best possible cheat loader for CS:GO.
 
-## How to install
+## How To Install
 1. Download from here.
 2. Run CS:GO Cheat Injector
 3. Choose if you'd like to run VAC Bypass ([more info](https://github.com/Counter-Strike-Go/Cheat-Injector#VAC-Bypass-Loader)).
 4. Choose the cheat you'd like to load [from the list](https://github.com/Counter-Strike-Go/Cheat-Injector#Supported-Cheats).
 
 ## Supported Cheats
-I've compiled the DLL files for the following cheats and allow you to easily inject them into Counter-Strike Global Offensive.
+I've compiled the DLL files for the following cheats and allow you to easily load them in Counter-Strike Global Offensive.
 
 - Osiris Multihack
 - Seaside Changer
@@ -20,7 +20,7 @@ I've compiled the DLL files for the following cheats and allow you to easily inj
 - Dainsleif
 - cshSkins
 - GOESP
-- Onetap v3
+- Onetap v2
 - RaweTrip
 - Untery
 - Weave
