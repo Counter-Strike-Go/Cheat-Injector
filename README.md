@@ -6,7 +6,7 @@ A free CS:GO Cheat loader with VAC Bypass. Includes [12 free cheats](https://git
 I created this cheat installer because I was sick of people asking on Discord how to install or compile various free CS:GO cheats, this program makes it a one click process. I can't take credit for this code, most of it was written by other people, I just pulled it all together. I intend to release the source code of this project soon so anyone can contribute to building the best possible cheat loader for CS:GO.
 
 ## How To Install
-1. [Download from here](https://github.com/Counter-Strike-Go/Cheat-Injector/releases/latest/download/CS.GO.Cheat.Injector.zip), you may need to add an exclusion to your antivirus, [learn more](https://github.com/Counter-Strike-Go/Cheat-Injector#Antivirus).
+1. [Download from here](https://github.com/Counter-Strike-Go/Cheat-Injector/releases/latest/download/CS.GO.Cheat.Injector.zip), make sure you unzip. You may need to add an exclusion to your antivirus, [learn more](https://github.com/Counter-Strike-Go/Cheat-Injector#Antivirus).
 3. Choose if you'd like to run VAC Bypass ([more info](https://github.com/Counter-Strike-Go/Cheat-Injector#VAC-Bypass-Loader)).
 4. Choose the cheat you'd like to load [from the list](https://github.com/Counter-Strike-Go/Cheat-Injector#Supported-Cheats).
 
