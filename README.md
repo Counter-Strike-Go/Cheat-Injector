@@ -1,5 +1,5 @@
 # CS:GO Cheat Injector
-A free CS:GO Cheat loader with VAC Bypass. Includes [12 free cheats](https://github.com/Counter-Strike-Go/Cheat-Injector#Supported-Cheats) with a simple installer allowing you to easily test out different cheats while avoiding VAC Bans.
+A free CS:GO Cheat loader with VAC Bypass. Includes [12 free cheats](https://github.com/Counter-Strike-Go/Cheat-Injector#Supported-Cheats) and a simple installer allowing you to easily test out different cheats while avoiding VAC Bans.
 
 ![image](https://user-images.githubusercontent.com/108346381/179973946-021434e4-3c42-458c-ba2a-107527fccfbd.png)
 
